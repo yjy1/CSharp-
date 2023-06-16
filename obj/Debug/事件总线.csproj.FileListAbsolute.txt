@@ -1,0 +1,7 @@
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\事件总线\bin\Debug\事件总线.exe.config
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\事件总线\bin\Debug\事件总线.exe
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\事件总线\bin\Debug\事件总线.pdb
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\事件总线\obj\Debug\事件总线.csproj.CoreCompileInputs.cache
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\事件总线\obj\Debug\事件总线.exe
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\事件总线\obj\Debug\事件总线.pdb
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\事件总线\obj\Debug\事件总线.csproj.AssemblyReference.cache
